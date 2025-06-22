@@ -1,0 +1,10 @@
+Worker 0 processed task 2
+Worker 2 processed task 0
+Worker 1 processed task 1
+Worker 2 processed task 4
+Worker 1 processed task 5
+Worker 0 processed task 3
+Worker 1 processed task 7
+Worker 2 processed task 8
+Worker 0 processed task 6
+Worker 2 processed task 9
